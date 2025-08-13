@@ -1,4 +1,4 @@
-public class PrimeNumbers
+public class prime
 {
    public static void main (String[] args)
    {		
@@ -26,4 +26,5 @@ public class PrimeNumbers
        System.out.println("Prime numbers from 1 to 100 are :");
        System.out.println(primeNumbers);
    }
+
 }
