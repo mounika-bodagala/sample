@@ -23,8 +23,9 @@ public class prime
 	     primeNumbers = primeNumbers + i + " ";
 	  }	
        }	
-       System.out.println("Prime numbers from 1 to 100 are :");
+       System.out.println("Prime numbers from 1 to 500 are :");
        System.out.println(primeNumbers);
    }
 
 }
+
